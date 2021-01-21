@@ -1,4 +1,16 @@
 com/bootcamp/reactive/clients/ClientsApplication.java
  com.bootcamp.reactive.clients.ClientsApplication
+com/bootcamp/reactive/clients/persistence/entities/Client.java
+ com.bootcamp.reactive.clients.persistence.entities.Client
+com/bootcamp/reactive/clients/persistence/repositories/ClientsRepository.java
+ com.bootcamp.reactive.clients.persistence.repositories.ClientsRepository
+com/bootcamp/reactive/clients/persistence/entities/ClientAddress.java
+ com.bootcamp.reactive.clients.persistence.entities.ClientAddress
+com/bootcamp/reactive/clients/domain/dto/ClientDto.java
+ com.bootcamp.reactive.clients.domain.dto.ClientDto
+com/bootcamp/reactive/clients/domain/services/impl/ClientServiceImpl.java
+ com.bootcamp.reactive.clients.domain.services.impl.ClientServiceImpl
 com/bootcamp/reactive/clients/web/controller/ClientsController.java
  com.bootcamp.reactive.clients.web.controller.ClientsController
+com/bootcamp/reactive/clients/domain/services/ClientService.java
+ com.bootcamp.reactive.clients.domain.services.ClientService
